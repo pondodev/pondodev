@@ -1,6 +1,6 @@
 # hey, i'm dan.
 
-professional worker of technical sorcery. i'm interested in all sorts of things such as photography, skateboarding, retro tech, coffee, and keyboards.
+does things to computers that probably shouldn't be done. i'm interested in all sorts of things such as photography, skateboarding, knitting, coffee, and retro tech. i don't really do tech stuff in my free time anymore though.
 
 if you wanna see what keyboards i've got/am planning to make/am planning to design then check [this repo](https://github.com/pondodev/my_keyboards)
 
